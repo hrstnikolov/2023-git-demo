@@ -2,7 +2,8 @@ from datetime import datetime
 
 
 def main():
-    print('I am the main app')
+    print('I am the main app!')
+    print('I am running all of it!')
 
 
 if __name__=='__main__':
