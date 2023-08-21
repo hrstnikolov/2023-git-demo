@@ -3,7 +3,7 @@ from datetime import datetime
 
 def main():
     print('I am the main app!')
-    print('I am running all of it!')
+    print('Now i am in developemetn....')
 
 
 if __name__=='__main__':
