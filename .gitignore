@@ -1,0 +1,19 @@
+# Ignore files that end in '.cache'
+*.cache
+
+
+# Ignre files and dirs that contain 'local'
+*local*
+
+
+# Ignore the entire "tmp" director
+tmp/
+
+
+# Ingore executable files in the build directory
+build/*.exe
+
+
+# Igonre all .txt files in data and its subfolders
+/data/**/*.txt
+
